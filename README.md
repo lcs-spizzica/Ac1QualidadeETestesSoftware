@@ -16,11 +16,13 @@ Tambem ser usado para melhor entendimento do framework JUnit 5.
 ## Código
 Exemplo de um método sendo testado
 ![teste](https://media.discordapp.net/attachments/895889200270946347/1015093311159160862/unknown.png)
+
 <br>
 Aqui estamos testenado uma soma com o resultado esperado igual a 15 e com status de sucesso no teste   
 
 ## Para mais ajuda
 Aqui está o site JUnit 5 para mais informações e guias sobre o gramework!
+<br>
 https://junit.org/junit5/docs/current/user-guide/
 
 
