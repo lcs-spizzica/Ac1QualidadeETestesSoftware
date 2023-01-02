@@ -30,6 +30,6 @@ https://junit.org/junit5/docs/current/user-guide/
 ## Contribuição e Apoio
 Lucas Antonio Spizzica, autor dos códigos e contribuidor.
 <br>
-Apoio e orientação, Daniel Ohata. Professor de Qualidade e Testes de Software - FACENS
+Apoio e orientação, Daniel Ohata.
 
 ## Última atualização 02/09/2022
